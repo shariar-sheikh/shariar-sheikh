@@ -1,6 +1,3 @@
-
-![I am Shariar](https://github.com/shariar-sheikh/shariar-sheikh)
-
 <h1 align="center">Hi 👋, I'm Shariar</h1>
 <h3 align="center">Programmer | Web Designer |  Graphic designer</h3>
 <h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
