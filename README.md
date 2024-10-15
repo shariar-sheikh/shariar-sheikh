@@ -1,6 +1,4 @@
 
-![Uploading Group_12403.jpg…]()
-
 ![I am Shariar](https://github.com/shariar-sheikh/shariar-sheikh)
 
 <h1 align="center">Hi 👋, I'm Shariar</h1>
